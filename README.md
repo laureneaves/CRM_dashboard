@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is Customer Relationship Management dashboard. The dashboard is optimised for mobile devices and tablets.
+This project is a Customer Relationship Management dashboard. The dashboard is optimised for mobile devices and tablets.
 
 The main components of the dashboard are:
 - Navigation bar.
