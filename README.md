@@ -1,10 +1,8 @@
-# CRM Dashboard
-
 <div align="center">
   <a href="https://github.com/laureneaves/admin_dashboard">
   </a>
 
-<h3 align="center">Admin Dashboard</h3>
+<h3 align="center">CRM Dashboard</h3>
 
   <p align="center">
     A complete responsive CRM dashboard using HTML, CSS, and JavaScript. 
